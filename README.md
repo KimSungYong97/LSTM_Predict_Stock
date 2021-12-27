@@ -2,9 +2,9 @@
 
 LSTM을 활용한 삼성전자 주식 예측하기
 
-회사에서는 LSTM을 활용한 Binary classification Task 는 해봤는데 이번에는 Regression Task 입니다.
+회사에서는 LSTM을 활용한 Binary classification Task 는 해봤는데 이번에는 Regression Task 를 해봤습니다.
 
-달라진 점은 데이터 전처리와 모델 마지막단에 Sigmoid 가 사라졌다는점, 그리고 Loss Funtion 정도..?
+달라진 점은 데이터 전처리와 모델 마지막 단에 Sigmoid 가 사라졌다는 점, 그리고 Loss Funtion 정도..?
 
 시계열 Classification Task 를 발견하면 적용해보겠습니다.
 
